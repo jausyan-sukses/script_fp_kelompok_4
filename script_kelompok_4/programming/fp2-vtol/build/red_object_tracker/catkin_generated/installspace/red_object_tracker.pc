@@ -1,0 +1,8 @@
+prefix=/home/el-jausyan/fp2-vtol/install
+
+Name: red_object_tracker
+Description: Description of red_object_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

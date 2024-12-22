@@ -1,0 +1,8 @@
+prefix=/home/el-jausyan/fp2-vtol/install
+
+Name: green
+Description: Description of green
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+green:red_object_tracker
+-DCATKIN_DEVEL_PREFIX=/home/el-jausyan/fp2-vtol/devel -DCMAKE_INSTALL_PREFIX=/home/el-jausyan/fp2-vtol/install -G Unix Makefiles
